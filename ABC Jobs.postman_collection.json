@@ -1,0 +1,32 @@
+{
+	"info": {
+		"_postman_id": "ddd90640-8db5-42f6-8a12-1148e2d319d7",
+		"name": "ABC Jobs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "3587568"
+	},
+	"item": [
+		{
+			"name": "Performance Testing",
+			"item": [
+				{
+					"name": "Motor de Emparejamiento",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "localhost/candidatos",
+							"host": [
+								"localhost"
+							],
+							"path": [
+								"candidatos"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
